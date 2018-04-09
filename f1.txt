@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello
-=======
-Hello Mr Manohar
->>>>>>> c0f796ddce687853d1a6e77fc69518d1a97b2409
